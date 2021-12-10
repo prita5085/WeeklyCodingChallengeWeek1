@@ -1,0 +1,6 @@
+HELP.md
+.project
+.classpath
+target/*
+.settings/*
+bin/*
